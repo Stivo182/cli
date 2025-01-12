@@ -1,8 +1,8 @@
-# Форк [`oscript-library/cli`](https://github.com/oscript-library/cli)
+# Форк [`cli`](https://github.com/oscript-library/cli) (onescript) для [curlone](https://github.com/alei1180/curlone)
 
 Данная библиотека для языка OScript позволяет создавать консольные приложения с разбором и проверкой аргументов.
 
-## Отличия
+## Изменения
 
 #### 1. Добавлены ключевые слова [ANY], [ЛЮБОЙ] в грамматику парсера
 
